@@ -1,0 +1,3 @@
+## animated-slider
+###Animated Slider
+###
